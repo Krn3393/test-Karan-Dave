@@ -142,6 +142,7 @@
   },
   "proxy": "https://api.ladbrokes.com.au",
   "devDependencies": {
-    "cypress": "^10.6.0"
+    "cypress": "^10.6.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
